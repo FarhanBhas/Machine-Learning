@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,JobRole,Attrition,MonthlyIncome,YearsAtCompany,JobSatisfaction,PerformanceRating,PercentSalaryHike,DistanceFromHome,MaritalStatus
+1001,50,Research & Development,Data Scientist,No,8415,19,1,4,16,20,Married
+1002,36,Research & Development,Data Scientist,No,6391,19,3,4,21,21,Married
+1003,29,Sales,Data Scientist,No,14157,17,1,4,22,18,Married
+1004,42,Sales,Sales Exec,No,14835,13,3,4,18,24,Married
+1005,40,Sales,Software Engineer,No,8951,16,4,3,22,27,Single
+1006,44,Research & Development,HR Manager,Yes,8468,8,4,3,12,11,Single
+1007,32,Research & Development,Data Scientist,No,11007,19,2,3,19,2,Married
+1008,32,Sales,Lab Technician,No,12064,18,3,3,12,25,Single
+1009,45,Research & Development,Data Scientist,No,12444,1,3,3,16,18,Married
+1010,57,Research & Development,Lab Technician,No,9413,14,1,3,23,29,Divorced
+1011,45,Human Resources,Sales Exec,No,9941,19,2,3,13,25,Divorced
+1012,24,Research & Development,Lab Technician,No,12506,15,3,3,22,7,Divorced
+1013,43,Research & Development,HR Manager,No,7820,18,2,3,17,24,Married
+1014,23,Human Resources,Software Engineer,No,5898,2,4,3,22,15,Divorced
+1015,45,Human Resources,Lab Technician,No,10546,17,3,3,16,11,Single
+1016,51,Research & Development,Lab Technician,No,3077,18,3,3,14,18,Divorced
+1017,59,Sales,Software Engineer,Yes,10577,6,2,4,16,23,Divorced
+1018,23,Research & Development,HR Manager,No,13813,19,3,3,12,12,Divorced
+1019,42,Research & Development,Data Scientist,No,7227,4,2,3,21,6,Single
+1020,54,Sales,Lab Technician,No,3600,1,3,3,11,20,Married
+1021,33,Sales,Software Engineer,No,4065,8,1,4,15,23,Single
+1022,43,Sales,Sales Exec,No,5136,7,2,3,11,13,Married
+1023,46,Research & Development,Software Engineer,No,13641,3,3,3,12,20,Married
+1024,48,Sales,Sales Exec,Yes,13535,10,4,3,15,16,Divorced
+1025,49,Sales,HR Manager,No,13055,10,3,3,14,18,Married
+1026,37,Human Resources,Data Scientist,No,12510,19,4,4,17,10,Single
+1027,36,Sales,Software Engineer,No,14789,14,4,3,18,28,Single
+1028,24,Sales,Lab Technician,No,9943,2,1,3,20,23,Married
+1029,58,Research & Development,HR Manager,No,14954,1,2,4,12,8,Divorced
+1030,28,Research & Development,Software Engineer,No,10804,18,3,4,21,18,Divorced
+1031,42,Human Resources,Lab Technician,No,9565,7,1,3,19,21,Single
+1032,30,Human Resources,Software Engineer,No,8984,8,3,4,12,1,Divorced
+1033,39,Research & Development,Sales Exec,No,8142,1,4,3,12,23,Married
+1034,25,Research & Development,Software Engineer,Yes,7670,3,2,3,22,8,Married
+1035,46,Research & Development,Software Engineer,Yes,5190,8,3,3,22,29,Single
+1036,35,Research & Development,Software Engineer,No,12184,15,3,3,15,6,Married
+1037,30,Human Resources,HR Manager,No,5712,5,4,3,24,5,Single
+1038,47,Research & Development,Software Engineer,No,5192,3,3,4,24,15,Married
+1039,23,Research & Development,Lab Technician,No,4248,19,3,4,10,22,Single
+1040,41,Research & Development,Sales Exec,Yes,14246,1,4,3,16,15,Divorced
+1041,49,Research & Development,Sales Exec,Yes,7033,15,1,4,21,2,Married
+1042,28,Research & Development,Software Engineer,No,4997,8,4,3,10,1,Married
+1043,29,Sales,HR Manager,No,6687,2,1,3,23,23,Single
+1044,56,Sales,HR Manager,No,13343,3,2,3,14,23,Single
+1045,35,Research & Development,Lab Technician,No,7018,14,1,3,24,26,Married
+1046,38,Research & Development,Software Engineer,No,14302,14,1,4,19,11,Single
+1047,57,Research & Development,Sales Exec,No,4970,11,2,4,22,10,Married
+1048,25,Sales,HR Manager,No,11389,16,1,3,17,18,Divorced
+1049,23,Research & Development,Software Engineer,No,8765,4,4,3,13,18,Single
+1050,27,Research & Development,HR Manager,No,13818,5,1,3,14,17,Married
+1051,25,Human Resources,HR Manager,No,4202,14,2,3,13,26,Divorced
+1052,50,Research & Development,Sales Exec,No,11135,16,4,4,21,8,Divorced
+1053,39,Human Resources,Data Scientist,No,8567,18,2,3,21,15,Married
+1054,47,Research & Development,Lab Technician,Yes,10667,7,2,3,23,8,Single
+1055,55,Research & Development,Lab Technician,No,8742,10,3,3,13,17,Married
+1056,31,Sales,Sales Exec,No,8788,7,3,3,21,12,Divorced
+1057,57,Sales,HR Manager,No,8408,1,2,3,17,27,Married
+1058,35,Sales,Software Engineer,No,13227,19,2,3,11,8,Single
+1059,52,Research & Development,HR Manager,No,11669,16,2,3,10,25,Divorced
+1060,36,Research & Development,Sales Exec,No,12446,19,3,3,12,14,Married
+1061,29,Research & Development,Lab Technician,No,3922,4,3,4,18,4,Single
+1062,35,Sales,HR Manager,No,3419,18,1,3,13,1,Divorced
+1063,44,Research & Development,Lab Technician,No,5204,2,1,3,19,1,Single
+1064,42,Human Resources,Software Engineer,Yes,13789,1,2,4,14,19,Divorced
+1065,37,Research & Development,Lab Technician,Yes,4120,15,4,3,11,16,Married
+1066,39,Research & Development,Lab Technician,Yes,14260,5,4,4,13,14,Single
+1067,45,Sales,Data Scientist,No,3950,11,3,3,11,21,Divorced
+1068,47,Sales,Data Scientist,Yes,5336,10,3,3,24,16,Single
+1069,46,Human Resources,Data Scientist,No,8373,2,3,3,11,5,Single
+1070,50,Research & Development,Lab Technician,No,5243,3,2,3,13,9,Married
+1071,36,Research & Development,Sales Exec,No,5645,12,4,3,15,26,Single
+1072,22,Research & Development,Lab Technician,No,13049,5,1,3,16,28,Divorced
+1073,46,Human Resources,Sales Exec,No,7612,5,2,3,19,2,Divorced
+1074,28,Research & Development,Sales Exec,No,4865,6,1,3,12,18,Divorced
+1075,30,Research & Development,Data Scientist,No,14104,9,1,3,12,6,Divorced
+1076,45,Research & Development,HR Manager,No,14045,2,2,4,19,9,Married
+1077,22,Research & Development,Software Engineer,Yes,9028,12,1,4,15,1,Single
+1078,29,Research & Development,Data Scientist,No,10326,3,4,4,22,9,Married
+1079,45,Research & Development,Data Scientist,No,9371,12,1,3,21,25,Single
+1080,32,Research & Development,HR Manager,No,9359,17,4,3,12,16,Single
+1081,38,Sales,Software Engineer,Yes,10863,10,4,3,22,13,Single
+1082,29,Human Resources,Lab Technician,Yes,6228,14,4,3,11,9,Married
+1083,56,Research & Development,Lab Technician,No,6719,17,3,3,17,21,Single
+1084,56,Research & Development,Data Scientist,No,14420,18,1,3,14,13,Married
+1085,54,Sales,Software Engineer,No,5371,19,2,3,24,9,Divorced
+1086,26,Research & Development,Data Scientist,No,5891,17,2,3,10,11,Divorced
+1087,49,Research & Development,Sales Exec,No,6756,14,1,3,12,4,Single
+1088,28,Research & Development,Data Scientist,Yes,7225,9,3,3,19,2,Married
+1089,30,Research & Development,Data Scientist,No,3094,8,3,3,17,29,Divorced
+1090,29,Sales,Lab Technician,No,5674,2,4,4,13,6,Married
+1091,33,Research & Development,Lab Technician,Yes,9898,13,1,3,23,14,Married
+1092,55,Sales,Lab Technician,No,13147,7,1,3,16,4,Single
+1093,54,Research & Development,Sales Exec,No,3793,9,2,3,19,6,Divorced
+1094,44,Research & Development,Lab Technician,Yes,13026,11,1,3,21,19,Single
+1095,45,Research & Development,Software Engineer,No,5116,14,3,3,23,6,Single
+1096,58,Research & Development,HR Manager,No,8779,4,1,3,23,2,Divorced
+1097,56,Sales,Software Engineer,No,14517,13,2,3,11,18,Divorced
+1098,43,Research & Development,Software Engineer,No,14111,2,4,3,16,13,Married
+1099,48,Research & Development,Lab Technician,No,13789,5,2,3,14,9,Divorced
+1100,56,Sales,HR Manager,No,14397,11,2,3,14,23,Married
+1101,22,Research & Development,HR Manager,No,9166,6,4,4,15,19,Married
+1102,56,Research & Development,HR Manager,No,3814,18,2,3,22,13,Married
+1103,58,Research & Development,Sales Exec,No,3345,10,2,3,18,11,Divorced
+1104,35,Research & Development,Lab Technician,No,13541,4,1,4,23,1,Single
+1105,24,Sales,HR Manager,No,11554,9,1,3,15,24,Married
+1106,22,Research & Development,Sales Exec,Yes,5443,6,4,3,21,22,Single
+1107,26,Research & Development,Data Scientist,No,13457,2,1,3,22,7,Single
+1108,47,Research & Development,Data Scientist,No,13380,17,1,3,24,25,Divorced
+1109,35,Sales,Sales Exec,No,10783,5,2,4,23,21,Single
+1110,48,Research & Development,Sales Exec,No,14197,6,3,3,17,15,Single
+1111,30,Research & Development,Lab Technician,No,14473,12,1,4,16,1,Divorced
+1112,36,Human Resources,Lab Technician,Yes,3984,10,3,3,18,12,Married
+1113,36,Sales,Data Scientist,No,10790,6,1,3,13,26,Single
+1114,47,Sales,HR Manager,No,12831,8,1,3,11,7,Divorced
+1115,34,Research & Development,Data Scientist,No,3827,2,4,3,16,15,Single
+1116,53,Research & Development,HR Manager,No,13922,12,4,3,15,21,Single
+1117,53,Research & Development,HR Manager,No,6531,13,4,4,10,19,Married
+1118,25,Research & Development,Lab Technician,Yes,10147,7,3,3,20,28,Single
+1119,51,Research & Development,Software Engineer,No,7451,10,2,4,18,29,Divorced
+1120,58,Sales,Software Engineer,No,14127,13,1,3,18,25,Single
+1121,44,Research & Development,Sales Exec,No,6876,17,1,4,21,1,Married
+1122,36,Human Resources,Lab Technician,Yes,8959,14,1,3,11,17,Married
+1123,50,Research & Development,HR Manager,No,3126,2,3,3,12,17,Divorced
+1124,57,Sales,Software Engineer,No,6177,11,4,4,14,3,Married
+1125,34,Research & Development,HR Manager,No,14248,1,2,3,14,12,Single
+1126,53,Research & Development,Software Engineer,No,11795,19,3,3,24,6,Married
+1127,28,Sales,Software Engineer,No,14641,4,4,3,10,26,Divorced
+1128,43,Research & Development,Software Engineer,Yes,9024,19,3,3,17,11,Married
+1129,49,Research & Development,Lab Technician,No,8109,11,2,4,21,3,Married
+1130,23,Human Resources,Data Scientist,No,7146,8,4,3,17,8,Married
+1131,27,Sales,HR Manager,No,10196,11,3,3,13,14,Divorced
+1132,49,Research & Development,Lab Technician,No,14725,4,2,3,22,14,Married
+1133,49,Research & Development,Lab Technician,Yes,14559,17,1,3,16,10,Married
+1134,41,Research & Development,Lab Technician,No,6368,7,2,3,24,2,Single
+1135,51,Sales,Lab Technician,No,6797,8,1,3,24,14,Divorced
+1136,32,Research & Development,Lab Technician,No,4792,3,3,3,20,9,Married
+1137,49,Research & Development,Sales Exec,No,14053,2,4,3,19,3,Divorced
+1138,46,Research & Development,HR Manager,No,8732,15,4,3,12,21,Married
+1139,54,Research & Development,Lab Technician,No,6476,5,3,3,15,26,Married
+1140,22,Sales,HR Manager,No,6417,1,4,3,23,8,Married
+1141,48,Research & Development,Sales Exec,No,4645,4,4,3,19,16,Single
+1142,34,Human Resources,Sales Exec,Yes,12397,15,1,3,22,2,Single
+1143,24,Research & Development,HR Manager,No,6030,19,3,3,19,6,Single
+1144,27,Research & Development,Software Engineer,No,5872,3,2,3,21,28,Divorced
+1145,29,Research & Development,Data Scientist,No,6072,11,1,3,23,21,Divorced
+1146,48,Research & Development,Software Engineer,No,4854,17,3,3,18,29,Single
+1147,30,Human Resources,Software Engineer,No,7021,13,1,3,10,26,Divorced
+1148,58,Sales,Software Engineer,No,7662,11,2,3,14,25,Married
+1149,54,Research & Development,Lab Technician,No,9514,2,2,3,13,12,Married
+1150,45,Sales,Sales Exec,Yes,8031,9,3,3,17,5,Married
+1151,36,Research & Development,Software Engineer,No,5708,2,2,3,20,2,Single
+1152,53,Sales,Sales Exec,No,14694,9,1,4,21,16,Divorced
+1153,53,Research & Development,HR Manager,No,10112,9,2,3,10,5,Single
+1154,45,Research & Development,Data Scientist,Yes,12524,8,1,3,18,15,Divorced
+1155,33,Research & Development,HR Manager,No,11393,17,1,3,15,12,Married
+1156,23,Research & Development,HR Manager,No,6507,1,2,3,13,4,Single
+1157,24,Research & Development,Lab Technician,No,9456,11,3,3,21,15,Divorced
+1158,58,Research & Development,Data Scientist,No,7212,8,4,4,18,11,Divorced
+1159,38,Research & Development,HR Manager,No,10970,10,2,3,20,16,Married
+1160,23,Research & Development,HR Manager,No,11766,7,1,3,14,23,Single
+1161,23,Human Resources,Data Scientist,No,3536,3,1,3,24,6,Single
+1162,49,Research & Development,Data Scientist,No,4625,3,2,3,14,14,Single
+1163,44,Research & Development,HR Manager,No,13314,18,3,3,21,18,Married
+1164,58,Sales,Data Scientist,No,10973,5,3,3,14,12,Single
+1165,53,Sales,HR Manager,No,11577,12,1,3,10,27,Married
+1166,54,Research & Development,HR Manager,No,11070,12,1,3,10,11,Married
+1167,22,Research & Development,Lab Technician,No,14473,19,3,3,17,13,Married
+1168,40,Sales,Software Engineer,No,11666,6,4,3,21,21,Divorced
+1169,23,Research & Development,HR Manager,No,11609,2,2,3,17,23,Single
+1170,47,Human Resources,Sales Exec,No,9490,12,1,3,21,11,Single
+1171,53,Sales,Software Engineer,No,6600,19,1,3,24,23,Married
+1172,27,Research & Development,Software Engineer,Yes,9783,5,3,3,24,16,Married
+1173,53,Research & Development,Software Engineer,No,12146,12,2,3,15,15,Single
+1174,25,Human Resources,Lab Technician,No,7971,17,3,3,21,21,Married
+1175,32,Research & Development,HR Manager,No,4205,17,2,4,20,28,Single
+1176,38,Research & Development,Lab Technician,No,4990,10,2,3,22,15,Divorced
+1177,59,Sales,HR Manager,No,8299,17,2,3,13,25,Married
+1178,45,Sales,Lab Technician,No,6572,15,1,3,11,4,Single
+1179,26,Human Resources,Lab Technician,Yes,8975,12,4,3,23,11,Married
+1180,55,Human Resources,Sales Exec,No,9320,16,3,3,11,19,Single
+1181,27,Sales,Lab Technician,Yes,7380,19,4,3,18,15,Single
+1182,43,Sales,Data Scientist,Yes,7757,8,3,4,24,4,Married
+1183,32,Sales,Sales Exec,No,5713,17,2,3,14,21,Divorced
+1184,37,Sales,Lab Technician,No,13395,5,1,3,13,13,Single
+1185,54,Research & Development,Software Engineer,No,8588,16,4,3,19,22,Single
+1186,30,Research & Development,Data Scientist,No,14312,6,1,4,22,19,Single
+1187,27,Sales,Data Scientist,No,3966,8,3,3,10,2,Divorced
+1188,37,Sales,Data Scientist,No,7944,18,1,4,16,14,Divorced
+1189,50,Sales,Sales Exec,No,6432,12,1,3,12,29,Married
+1190,24,Sales,Lab Technician,No,3688,15,4,4,15,4,Divorced
+1191,41,Sales,Lab Technician,No,7243,9,2,3,14,16,Married
+1192,57,Research & Development,Software Engineer,No,6701,13,1,4,14,21,Married
+1193,40,Research & Development,Software Engineer,No,11533,15,2,3,20,20,Divorced
+1194,47,Research & Development,Data Scientist,No,8182,10,3,4,14,14,Married
+1195,24,Research & Development,Software Engineer,No,12916,16,1,3,10,27,Divorced
+1196,40,Research & Development,Sales Exec,Yes,9704,7,4,3,10,29,Married
+1197,41,Sales,Lab Technician,No,7422,17,3,3,12,15,Divorced
+1198,53,Research & Development,Data Scientist,No,12984,7,3,3,23,28,Divorced
+1199,28,Sales,Software Engineer,No,4759,14,4,3,21,3,Married
+1200,54,Research & Development,Sales Exec,Yes,14404,15,1,3,19,8,Single
